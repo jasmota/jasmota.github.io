@@ -1,0 +1,17 @@
+{
+    "name": "Calcular Factorial",
+    "short_name": "Factorial",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./icono.jfif",
+            "type": "image/jfif",
+            "sizes": "512x512"
+        }
+    ]
+}
